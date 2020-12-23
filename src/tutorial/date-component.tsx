@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 export function DateComponent() {
     let [date, setDate] = React.useState(''); // '' <- initial value of 'date' let. Second value - changes 'date'
